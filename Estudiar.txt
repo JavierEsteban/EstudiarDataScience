@@ -1,0 +1,26 @@
+Cursos Que Se deben de Estudiar
+
+-- Power Bi  ( Destokp, Web)
+-- Tableau  ( Destokp)
+-- QlikSense (Destokp, Web)
+
+-- Modelado de DataWareHouse ( Microsoft, Oracle)
+-- Desarrollos con Etl (SSDT, DATA STAGE, POWER CENTER, TALENT STUDIO)
+-- Big Data ( Hadoop, Spark)
+-- Big Query
+-- Machine Learning ( Aprendizaje supervisado y No Supervisado)
+-- Hbase ( Base de datos No sql)
+-- MongoDb ( Base de datos No sql)
+-- Oracle ( Pl/Sql nivel Avanzado)
+
+-- Python ( Librerías analitas de datos y graficas)
+-- R ( Librerías analitas de datos y graficas)
+
+
+-- Scrum (Scrum Master Exin)
+-- Proyecto PMI (Áreas de Conocimientos)
+-- Minería de Datos (SSDT, Weka... Otras Herramientas)
+-- Git Hub
+
+-- Java
+-- C# y VB.net
